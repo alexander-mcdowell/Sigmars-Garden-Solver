@@ -40,7 +40,7 @@ Metals, listed in order of precedence:
 If there is no element on a given tile, write 'N'.
 
 For instance, this game of Sigmar's Garden:
-![Example Puzzle](example_puzzle.png)
+![Example Puzzle](/example_puzzle.PNG)
 
 Would be transcribed _exactly_ as:
 `NNNNNNNFMAEANNLSQEEWNNKEAANNQWVNNAQFNGNWEENNEFVNNWQQNNVSWMFAANNVCTMFWNNFMSFENNNNNNN`
